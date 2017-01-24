@@ -1,1 +1,1 @@
-=Basic Website with PHP, MySQL, Javascript, CSS
+# Basic Website with PHP, MySQL, Javascript, CSS
